@@ -1,7 +1,12 @@
 #ifndef MAIN_H
 #define MAIN_H
+
 /**
- * Description: Longer description of the function)?
+ * unsigned int binary_to_uint - Short description, single line
+ * @b: Description of parameter x
+ *
+ * Description: Longer description
+ * Return: Description of the returned value
  */
 
 
